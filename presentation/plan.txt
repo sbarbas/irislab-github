@@ -1,23 +1,23 @@
-5'	:	installation des participants
+5'  :   installation des participants
 
-10' : 	tour de table rapide / présentation
-		déjà utilisateur d'un outil de gestion de versions ?
+10' :   tour de table rapide / présentation
+        déjà utilisateur d'un outil de gestion de versions ?
 
-15' : 	intro git, github
-		exemples d'utilisation de la plate-forme
+15' :   intro git, github
+        exemples d'utilisation de la plate-forme
 
-30' :	quelques définitions
-		création d'un compte utilisateur
+30' :   quelques définitions
+        création d'un compte utilisateur
             - chaque participant crée son compte si il n'en a pas déjà
-		création d'un dépôt
-			- irislab-projet
-		premières fonctions : add, commit
+        création d'un dépôt
+            - irislab-projet
+        premières fonctions : add, commit
             - expérimentations
 
-20' :	pull / push / merge / fork
+20' :   pull / push / merge / fork
 
-30' :	manipulations libres en mode essai / erreur
-		des fonctions vues
+30' :   manipulations libres en mode essai / erreur
+        des fonctions vues
 
-10'	:	retour sur l'atelier, questions
-		envies pour aller plus loin, etc.							
+10' :   retour sur l'atelier, questions
+        envies pour aller plus loin, etc.                           
