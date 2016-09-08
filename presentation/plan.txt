@@ -1,0 +1,21 @@
+5'	:	installation des participants
+
+10' : 	tour de table rapide / présentation
+		utilisateur d'un outil de gestion de versions
+
+15' : 	intro git, github
+		exemples d'utilisation de la plate-forme
+
+30' :	création d'un compte utilisateur
+		création d'un dépôt
+			- irislab-projet
+
+		premières fonctions : add, commit
+
+20' :	pull / push / merge / fork
+
+30' :	manipulations libres en mode essai / erreur
+		des fonctions vues
+
+10'	:	retour sur l'atelier, questions
+		envies pour aller plus loin, etc.							
